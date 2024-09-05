@@ -1,5 +1,5 @@
 from pdf2docx import parse
-
+#pdf文件转为docx文件
 def pdf2doc():
     pdf_file = 'D:\学习资料/In-Flight_Energy-Driven_Composition_of_Drone_Swarm_Services(1).pdf'
     docx_file = 'D:\学习资料/sample.docx'
